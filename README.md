@@ -1,6 +1,4 @@
-# The Spread of COVID-19 Misinformation: Tracking through
-
-# K-Core Decomposition on Twitter
+# The Spread of COVID-19 Misinformation: Tracking through K-Core Decomposition on Twitter
 
 ```
 Viswesh Uppalapati, Skylar Wang
