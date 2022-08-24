@@ -140,6 +140,8 @@ Upon performing k-core on the entire tweets dataset. We found that many of our l
 occurred when k = 10. This means that the densest network of retweets in our dataset consisted
 of nodes of users that have retweeted at least 10 or more tweets.
 
+![pic 2](https://user-images.githubusercontent.com/50200188/186321554-0be940f0-5c0b-4db6-bf7a-c04406a6bb2b.PNG)
+
 **Figure 2: Average number of tweets per user by k-value across each k-core**
 
 The graph above is generated using the different k-cores of the main graph that were computed.
