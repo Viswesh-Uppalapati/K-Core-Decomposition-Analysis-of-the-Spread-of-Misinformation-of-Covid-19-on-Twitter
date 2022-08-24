@@ -88,7 +88,7 @@ based on the content and status of the url they are sharing. There are 1,051,563
 tweeted tweets in our current dataset. And lastly, around 72% of the tweets in the datasets are
 retweets of other tweets. This is also a metric that is considered further in the results section.
 
-![Screenshot](figures/pic 1.png)
+![Screenshot](figures/pic 1.PNG)
 
 **Figure 1: The distribution of the number of tweets per user of the dataset**
 
