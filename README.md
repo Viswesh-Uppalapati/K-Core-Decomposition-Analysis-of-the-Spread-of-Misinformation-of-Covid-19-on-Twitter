@@ -67,6 +67,8 @@ and sampled from.
 
 **Exploratory Data Analysis**
 
+Metric | Value
+------------- | -------------
 Proportion of tweets that are missing | 0.179063 |
 Proportion of tweets that contain a URL | 0.360685 |
 Number of unique users | 1051563 |
