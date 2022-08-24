@@ -68,11 +68,8 @@ and sampled from.
 **Exploratory Data Analysis**
 
 Proportion of tweets that are missing | 0.179063 |
---- | --- |
 Proportion of tweets that contain a URL | 0.360685 |
---- | --- |
 Number of unique users | 1051563 |
---- | --- |
 Proportion of data that are retweets | 0.717135 |
 
 **Table 1. Summary statistics of the dataset**
